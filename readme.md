@@ -1,5 +1,7 @@
-Jarhou Achraf : referent
-henry enzo : membre
-jean luc lieh yao: membre
-abdo said abbass: membre
-andy smith:membre
+| Nom               | Rôle     |
+| ----------------- | -------- |
+| Jarhou Achraf     | Référent |
+| Henry Enzo        | Membre   |
+| Jean Luc Lieh Yao | Membre   |
+| Abdo Said Abbass  | Membre   |
+| Andy Smith        | Membre   |
